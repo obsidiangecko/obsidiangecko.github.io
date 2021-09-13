@@ -3,12 +3,19 @@ body {
     width: 60%;
     float: right;
 }
-nav ul, footer ul {
+nav ul{
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
-    background-color: #f1f1f1
+    background-color: #f1f1f1;
+    float: left;
+}
+footer ul {
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
 }
 nav ul li {
     display: block;
