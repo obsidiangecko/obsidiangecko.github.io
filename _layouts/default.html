@@ -6,19 +6,27 @@
 			<link rel="stylesheet" type="text/css" href="/css/main.css">
 		</head>
 		<body>
-			<nav>
-	    		<ul>
-	        		<li><a href="/">Home</a></li>
-		        	<li><a href="/about">About</a></li>
-	        		<li><a href="/cv">CV</a></li>
-	        		<li><a href="/blog">Blog</a></li>
-	    		</ul>
-			</nav>
-			<div class="container">
-			
-			{{ content }}
-			
-			</div><!-- /.container -->
+			<div class="grid-container">
+
+    <div class="grid-navigation">
+	<nav>
+	<ul>
+	<li><a href="/">Home</a></li>
+	<li><a href="/about">About</a></li>
+	<li><a href="/cv">CV</a></li>
+	<li><a href="/blog">Blog</a></li>
+	</ul>
+	</nav>
+
+    </div>
+
+    <div class="grid-body">
+	<div class="container">
+		{{ content }}
+	</div><!-- /.container -->
+    </div>
+  
+</div>
 			<footer>
 	    		<ul>
 	        		<li><a href="mailto:hthrcox@gmail.com">email</a></li>
