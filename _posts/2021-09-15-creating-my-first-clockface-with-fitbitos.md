@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Creating My First Clockface With FitBitOS
+title: "Creating My First Clockface With FitBitOS"
 date: 2021-09-15
 ---
 
