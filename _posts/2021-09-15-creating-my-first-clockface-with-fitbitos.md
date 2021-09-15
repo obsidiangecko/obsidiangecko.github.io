@@ -24,7 +24,6 @@ developed from many sources of inspiration.
 ![Basic MkII Clockface](https://github.com/obsidiangecko/obsidiangecko.github.io/blob/main/images/Basic-MkII-small.jpg)
 
 In addition to basic date and time, I have displayed heart rate, steps and active zone minutes
-in this design. In future iterations, I want to add water consumption to the clockface, however
-as this isn't measured by sensors in the watch, the data is accessed via the FitBit Web API,
+in this design. In future iterations, I will modify the battery detail, and I want to add water consumption to the clockface, however as this isn't measured by sensors in the watch, the data is accessed via the FitBit Web API,
 so the next step is to do more research around that area, where I hope the [Water Logged](https://github.com/tylerl0706/Water-Logged)
 code will be of great assistance.
