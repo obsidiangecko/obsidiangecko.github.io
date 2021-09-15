@@ -21,7 +21,7 @@ the aesthetic style of the clockface. Other open source clockfaces provided many
 how to do similar things in different ways, and so [my own clockface](https://github.com/obsidiangecko/digital-interoception) 
 developed from many sources of inspiration. 
 
-![Basic MkII Clockface](/images/basic-mkii-small.jpg)
+![Basic MkII Clockface](https://github.com/obsidiangecko/obsidiangecko.github.io/blob/main/images/Basic-MkII-small.jpg)
 
 In addition to basic date and time, I have displayed heart rate, steps and active zone minutes
 in this design. In future iterations, I want to add water consumption to the clockface, however
