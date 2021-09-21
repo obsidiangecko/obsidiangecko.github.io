@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Sharing What I'm Working On"
 date: 2021-09-12
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Creating My First Clockface With FitBitOS"
 date: 2021-09-15
 ---
