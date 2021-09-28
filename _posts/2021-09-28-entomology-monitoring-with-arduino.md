@@ -10,7 +10,7 @@ The idea is to monitor the temperature and humidity inside a sealed box, which i
 display mounting. The environment needs to be kept stable within certain paramaters, and so this seemed like a great excuse to break
 out the Arduino Pro Mini type controllers I've been hoarding. First up, I needed to solder the headers on. I have struggled with choosing 
 the right soldering irons and solder of late, but finally seem to have the right size of everything for the job, and I was actually quite 
-impressed with the quality of the joints, even if the pins were a little splayed and would plug into a breadboard. 
+impressed with the quality of the joints, even if the pins were a little splayed and wouldn't plug into a breadboard. 
 
 ![Solder Joints](/assets/images/solder.jpg)
 
