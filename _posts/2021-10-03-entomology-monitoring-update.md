@@ -21,7 +21,7 @@ Once that was done, live temperature data from the microcontroller displayed on 
 token in the code. From there, adding additional charts to the dashboard and integrating the humidity data was very intuitive, and 
 I very quickly had a result.
 
-![ThingsBoard Dashboard](/assets/images/Dashboard.png)
+![ThingsBoard Dashboard](/assets/images/Dashboard.jpg)
 
 This is currently running on the ThingsBoard Demo Server, and so there's some tidy up work to do. As there's no way to act
 upon the temperature and humidity data when outside the range of the wireless network, it's not necessary to have access in the
