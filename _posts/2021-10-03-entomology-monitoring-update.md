@@ -4,7 +4,7 @@ title: "Entomology Monitoring Update"
 date: 2021-10-03
 ---
 
-I finished the [previous post](2021-09-28-entomology-monitoring-with-arduino.md) vowing to investigate alternative dashboard
+I finished the [previous post](/blog/2021/09/28/entomology-monitoring-with-arduino) vowing to investigate alternative dashboard
 options, as Blynk had fallen short of expectations. I've since discovered [ThingsBoard](https://thingsboard.io), an Open Source
 platform for managing and displaying data from IoT devices, and so far, it looks good.
 
