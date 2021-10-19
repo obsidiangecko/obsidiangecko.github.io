@@ -4,7 +4,7 @@ title: "Entomology Monitoring - Iterate, iterate, iterate"
 date: 2021-10-17
 ---
 
-Testing of the setup detailed [here](/2021-09-28-entomology-monitoring-with-arduino.md) and [here](/2021-09-28-entomology-monitoring-update.md)
+Testing of the setup detailed [here](/blog/2021/09/28/entomology-monitoring-with-arduino) and [here](/blog/2021/10/03/entomology-monitoring-update)
 has uncovered some rather serious issues with power consumption and heat production.
 
 Initial testing had the ESP8266 board running from a USB power supply, however it was always intended to swap this for a small battery,
